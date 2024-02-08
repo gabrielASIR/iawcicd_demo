@@ -1,3 +1,4 @@
+
 // Mapeo en variables los elementos HTML que voy a utilizar
 let idUsuario = document.getElementById("user");
 let passUsuario = document.getElementById("pass");
